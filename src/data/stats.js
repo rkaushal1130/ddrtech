@@ -1,8 +1,8 @@
 // --- Company Stats (used on Home, About, Portfolio pages) ---
 const companyStats = [
-  { id: 1, icon: 'Briefcase', value: '8', label: 'Projects Completed' },
-  { id: 2, icon: 'Users', value: '8', label: 'Happy Clients' },
-  { id: 3, icon: 'Lightbulb', value: '1', label: 'Years Experience' },
+  { id: 1, icon: 'Briefcase', value: '10', label: 'Projects Completed' },
+  { id: 2, icon: 'Users', value: '20', label: 'Happy Clients' },
+  { id: 3, icon: 'Lightbulb', value: '4', label: 'Years Experience' },
   { id: 4, icon: 'UserCheck', value: '5-10', label: 'Expert Team Members' },
 ];
 
